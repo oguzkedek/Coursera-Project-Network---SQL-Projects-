@@ -240,7 +240,7 @@ WHERE s.salary > 145000;
 
 -- 6.2: What do you think will be the output of this query?
 /*
-It's the same query as above but the only difference is that the second query doesn't have an emp_no.
+It's the same query as above but the only difference is that the second query doesn't have the emp_no.
 */
 
 SELECT e.first_name, e.last_name, s.salary
