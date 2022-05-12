@@ -1,0 +1,3 @@
+This project contains simple CASE statements to retrieve the desired result from a database and more complex SQL CASE statements. Furthermore, It contains how to use the CASE clause together with aggregate functions, and SQL joins to get the desired result you want from tables in a database in addition to how to use the CASE clause to transpose the result of a query.
+
+[Certification URL](https://www.coursera.org/account/accomplishments/verify/R4SCU6QUYRVP)
